@@ -2,12 +2,10 @@
 
 > A curated and organized collection of resources related to **Password-Cracking**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Password-Cracking
 > Explore password cracking techniques: brute force, dictionary attacks, and rainbow tables. Includes tools, scripts, and ethical guidelines for security testing.
 
-# Contact With Me:
 
 <div align="left">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
@@ -23,7 +21,6 @@
   </a>
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
-</div>
 
 In cryptanalysis and computer security, password cracking is the process of recovering passwords from data that has been stored in or transmitted by a computer system in scrambled form. A common approach ([brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack)) is to repeatedly try guesses for the password and to check them against an available cryptographic hash of the password.
 
